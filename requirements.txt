@@ -7,3 +7,4 @@ python-dotenv
 pygithub
 networkx
 matplotlib
+langchain-openai
