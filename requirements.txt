@@ -8,3 +8,4 @@ pygithub
 networkx
 matplotlib
 langchain-openai
+langchain-core
